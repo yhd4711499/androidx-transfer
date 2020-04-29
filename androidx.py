@@ -175,3 +175,8 @@ def getMapped(mapping, str):
 
 
 main()
+
+print("Here are some steps you might take afterwards:")
+print("1. Find proper version for androidx or android support modules. Same modules have different version between Androidx and support")
+print("2. Compile source code and fix errors (which are mostly nullability checks)")
+print("3. Buy me a bear :)")
